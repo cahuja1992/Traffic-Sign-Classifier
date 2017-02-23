@@ -1,0 +1,14 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+traffic_signs_data/
+test_data/
+Submission/
+signnames.csv
+*.meta
+*.out
+*.err
+*.index
